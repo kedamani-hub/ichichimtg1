@@ -1,0 +1,6 @@
+{
+  "name": "イチイチミーティング in ごせまち",
+  "description": "125cc・150ccオーナー限定の交流ミーティングイベント『イチイチミーティング in ごせまち』のオシャレなLP（ランディングページ）です。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
